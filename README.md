@@ -2,6 +2,8 @@
 
 An end-to-end ML system that performs **real-time anomaly detection** and automatically retrains itself when **data or concept drift** is detected—ideal for domains like fraud detection, cybersecurity, or IoT monitoring.
 
+For initial simplicity, the model itself will be trained on USA Inflation rate data- but can simply be repurposed.
+
 ---
 
 ## 🚀 Features
